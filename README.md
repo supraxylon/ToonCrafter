@@ -1,3 +1,5 @@
+This is a fork from the main ToonCrafter aimed at both adapting to windows and low VRAM (lower end) systems. To run this install the requirements as necessary then run the gradio app.
+
 ## ___***ToonCrafter: Generative Cartoon Interpolation***___
 <!-- ![](./assets/logo_long.png#gh-light-mode-only){: width="50%"} -->
 <!-- ![](./assets/logo_long_dark.png#gh-dark-mode-only=100x20) -->
